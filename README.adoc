@@ -1,0 +1,4 @@
+:noc:
+:icons: font
+
+NOTE: jupyter notebooks best run in browsers
